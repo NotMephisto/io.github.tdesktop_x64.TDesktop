@@ -442,7 +442,7 @@ modules:
       - type: git
         url: https://github.com/TDesktop-x64/tdesktop.git
         commit: 038b2c5b22898667e2b45504306afbdbaee3da74
-        tag: v1.1.30
+        tag: v1.1.43
         x-checker-data:
           type: json
           url: https://api.github.com/repos/TDesktop-x64/tdesktop/releases
